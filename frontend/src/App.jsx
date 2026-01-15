@@ -16,7 +16,7 @@ import QuizSetup from "./pages/quizSetup";
 import QuizGame from "./pages/QuizPlay";
 import ProfilePage from "./pages/ProfilePage";
 import { ThemeProvider } from "./context/ThemeProvider";
-import ResumeLanding from "./pages/ResumeLanding";
+import ResumeLanding from "./pages/resumelanding";
 import ResumePage from "./pages/ResumePage";
 import ResumeMaker from "./pages/ResumeBuilder";
 import ATSChecker from "./pages/ATSchecker";
