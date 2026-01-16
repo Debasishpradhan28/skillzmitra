@@ -7,3 +7,6 @@ LINK - https://skillzmitra.vercel.app
 ### Backend :
 - Deployed on render
 - build with node+express
+
+## !!!Some Features may not work properly.!!!
+## Ongoing Project with much efforts❤️
