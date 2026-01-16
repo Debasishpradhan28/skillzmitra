@@ -14,7 +14,7 @@ import {
 } from "react-icons/fa";
 import { onAuthStateChanged } from "firebase/auth";
 import Typewriter from "typewriter-effect";
-import Footer from "@/components/ui/Footer";
+import Footer from "../components/ui/Footer";
 
 export default function Home() {
   const navigate = useNavigate();

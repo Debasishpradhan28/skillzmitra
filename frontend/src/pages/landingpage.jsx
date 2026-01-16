@@ -1,12 +1,12 @@
 import React from "react"; 
-import { Button } from "@/components/ui/button";
+import { Button } from "../components/ui/button";
 import { Sparkles, Rocket, Bell, Compass, Brain } from "lucide-react";
-import Hero from "@/components/ui/Hero";
-import Features from "@/components/ui/Features";
-import Footer from "@/components/ui/Footer";
+import Hero from "../components/ui/Hero";
+import Features from "../components/ui/Features";
+import Footer from "../components/ui/Footer";
 import { useState } from "react";
 import { motion } from "framer-motion";
-import WhyChooseUs from "@/components/ui/whyus";
+import WhyChooseUs from "../components/ui/whyus";
 
 export default function LandingPage() {
    const [languageSelectorOpen, setLanguageSelectorOpen] = useState(false);

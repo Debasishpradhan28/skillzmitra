@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Navbar from "@/components/ui/Navbar";
-import Footer from "@/components/ui/Footer";
+import Navbar from "../components/ui/Navbar";
+import Footer from "../components/ui/Footer";
 
 export default function Contact() {
   return (
